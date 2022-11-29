@@ -1,0 +1,14 @@
+{
+    "manifests": {
+        "ajgl/breakpoint-twig-extension": {
+            "manifest": {
+                "bundles": {
+                    "Ajgl\\Twig\\Extension\\SymfonyBundle\\AjglBreakpointTwigExtensionBundle": [
+                        "dev"
+                    ]
+                }
+            },
+            "ref": "6154daec806557d7061eaabe77ff762e457ff9f4"
+        }
+    }
+}

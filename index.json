@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "ajgl/breakpoint-twig-extension": [
+            "0.3"
+        ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/ajgarlag/symfony-flex-recipes",
+        "origin_template": "{package}:{version}@github.com/ajgarlag/symfony-flex-recipes:main",
+        "recipe_template": "https://raw.githubusercontent.com/ajgarlag/symfony-flex-recipes/main/{package_dotted}.{version}.json"
+    }
+}
